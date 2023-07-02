@@ -12,6 +12,7 @@
    <a href="https://instagram.com/dimoontri?igshid=MjEwN2IyYWYwYw==">
      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a> 
+  ![](https://komarev.com/ghpvc/?username=TriTetra&color=green)
 </div>
 
 <div id="header" align="center">
