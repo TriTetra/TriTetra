@@ -10,13 +10,13 @@
 
 <div id="links" align="center">
   <a href="https://www.linkedin.com/in/abdullokh-abdukodirov-9745b5203/">
-    <img src="https://img.shields.io/badge/Linkedin-black" width=70 height=25>
+    <img src="https://img.shields.io/badge/Linkedin-black" width=80 height=25>
   </a> 
    <a href="https://medium.com/@abdullahabdulkadir0/">
-    <img src="https://img.shields.io/badge/Medium-blue" width=70 height=25>
+    <img src="https://img.shields.io/badge/Medium-blue" width=80 height=25>
   </a> 
   <a href="https://instagram.com/dimoontri?igshid=MjEwN2IyYWYwYw==">
-    <img src="https://img.shields.io/badge/Instagram-red" width=70 height=25>
+    <img src="https://img.shields.io/badge/Instagram-red" width=80 height=25>
   </a> 
 </div>
 
