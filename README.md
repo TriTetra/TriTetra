@@ -15,7 +15,7 @@
 </div>
 
 <div id="header" align="center">
-  <h1>Hey there</h1>
+  <h1>Hey there 👋</h1>
 </div>
 
 👨‍💻 I'm currently student at Biruni University<br>
