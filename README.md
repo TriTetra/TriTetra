@@ -4,6 +4,6 @@
 🔭 I'm looking for help with Deep Learning and Data Science<br>
 
 
-<div id="header" align="center" style="border-radius: 50%;">
+<div id="header" align="center" style="border-radius: 50;">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" />
 </div>
