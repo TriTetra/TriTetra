@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Medium-blue" width=80 height=25>
   </a> 
   <a href="https://instagram.com/dimoontri?igshid=MjEwN2IyYWYwYw==">
-    <img src="https://img.shields.io/badge/Instagram-yellow" width=80 height=25>
+    <img src="https://img.shields.io/badge/Instagram-green" width=80 height=25>
   </a> 
 </div>
 
