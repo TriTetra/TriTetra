@@ -9,7 +9,7 @@
 </div>
 
 <div id="links" align="center">
-  <img src="https://img.shields.io/badge/LINKEDIN-blue" width=80>
+  <img src="https://img.shields.io/badge/LINKEDIN-blue" width=70>
 </div>
 
 
