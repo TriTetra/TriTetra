@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  https://komarev.com/ghpvc/?username=TriTetra&color=green
+  <img src="https://komarev.com/ghpvc/?username=TriTetra&color=green">
 </div>
 
 
