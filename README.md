@@ -14,7 +14,10 @@
   </a> 
 </div>
 
-### <h1> 💫 About Me: </h1>
+<div id="header" align="center">
+  <h1>Hey there</h1>
+</div>
+
 👨‍💻 I'm currently student at Biruni University<br>
 🌱 I'm currently learning Java and Python<br>
 🔭 I'm looking for help with Deep Learning and Data Science<br>
