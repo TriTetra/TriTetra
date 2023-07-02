@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/abdullokh-abdukodirov-9745b5203/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue" width=70 height=25>
   </a> 
-   <a href="  https://medium.com/@abdullahabdulkadir0">
+   <a href="https://medium.com/@abdullahabdulkadir0/">
     <img src="https://img.shields.io/badge/MEDIUM-black" width=70 height=25>
   </a> 
 </div>
