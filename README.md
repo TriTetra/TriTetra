@@ -15,8 +15,8 @@
 </div>
 
 <div id="header" align="center">
-  <h2 style ="color: red;">Hey there 👋</h2>
-  <h4 style ="color: aquamarine;">Hello! I'm a second-year Computer Engineering student at Biruni University. My main areas of interest lie in the fields of artificial intelligence and cybersecurity. I have a strong passion for exploring the latest technologies and continuously expanding my skillset to keep up with the ever-evolving tech industry. Currently, my focus is on learning Java and Python programming languages to establish a solid foundation in software development. Moreover, I am eagerly looking forward to diving into the fields of Deep Learning and Data Science, where I can apply my knowledge to solve complex problems and extract valuable insights from data. Through my GitHub repository, I aim to share my projects and collaborate with like-minded individuals to drive innovation and make a positive impact in the world.</h4>
+  <h2>Hey there 👋</h2>
+  <h4>Hello! I'm a second-year Computer Engineering student at Biruni University. My main areas of interest lie in the fields of artificial intelligence and cybersecurity. I have a strong passion for exploring the latest technologies and continuously expanding my skillset to keep up with the ever-evolving tech industry. Currently, my focus is on learning Java and Python programming languages to establish a solid foundation in software development. Moreover, I am eagerly looking forward to diving into the fields of Deep Learning and Data Science, where I can apply my knowledge to solve complex problems and extract valuable insights from data. Through my GitHub repository, I aim to share my projects and collaborate with like-minded individuals to drive innovation and make a positive impact in the world.</h4>
 </div>
 
 
