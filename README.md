@@ -4,8 +4,8 @@
 🔭 I'm looking for help with Deep Learning and Data Science<br>
 
 
-<div align="center" style="border-radius: 50%; overflow: hidden; width: 250px;">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 
