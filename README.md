@@ -9,7 +9,6 @@
 </div>
 
 <div id="links" align="center">
-  <br>
   <a href="https://www.linkedin.com/in/abdullokh-abdukodirov-9745b5203/">
     <img src="https://img.shields.io/badge/Linkedin-black" width=80 height=25>
   </a> 
