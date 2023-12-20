@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abdullokh-abdukodirov-9745b5203/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a> 
   <a href="https://medium.com/@abdullahabdulkadir0/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
   </a> 
+  <a href="https://www.linkedin.com/in/abdullokh-abdukodirov-9745b5203/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a> 
    <a href="https://www.hackerrank.com/profile/KairosS">
-     <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-black?logo=HackerRank">
+     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank" alt="HackerRank Badge">
   </a> 
 </div>
 
