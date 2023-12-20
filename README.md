@@ -9,7 +9,7 @@
   <a href="https://medium.com/@abdullahabdulkadir0/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
   </a> 
-   <a href="https://instagram.com/dimoontri?igshid=MjEwN2IyYWYwYw==">
+   <a href="https://www.hackerrank.com/profile/KairosS">
      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a> 
 </div>
