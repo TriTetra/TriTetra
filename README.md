@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
   </a> 
    <a href="https://www.hackerrank.com/profile/KairosS">
-     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+     <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-black?logo=HackerRank">
   </a> 
 </div>
 
