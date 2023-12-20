@@ -13,8 +13,6 @@
      <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank" alt="HackerRank Badge">
   </a> 
 </div>
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TriTetra&color=green">
 </div>
