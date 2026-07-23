@@ -1,37 +1,40 @@
-name: GitHub Stats
+name: README build
 
 on:
-  schedule:
-    - cron: '0 0 * * *'      # her gün 00:00 UTC
-  workflow_dispatch:          # manuel tetikleme
   push:
     branches: [main]
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install deps
-        run: pip install requests lxml python-dateutil
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip requests lxml python-dateutil
 
-      - name: Generate stats
-        run: python stats.py
+      - name: Update README
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
+        run: python stats.py
 
-      - name: Commit if changed
+      - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add dark_mode.svg light_mode.svg cache/
-          git diff --staged --quiet || git commit -m "chore: update github stats"
+          git diff --staged --quiet || git commit -m "Updated README"
           git push
