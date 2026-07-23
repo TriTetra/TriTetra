@@ -4,7 +4,7 @@ AI Systems Engineer — building production AI infrastructure for autonomous sof
 
 <a href="https://github.com/TriTetra/TriTetra">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TriTetra/TriTetra/main/dark_mode.svg?v=1">
-    <img alt="TriTetra's GitHub Profile README" src="https://raw.githubusercontent.com/TriTetra/TriTetra/main/light_mode.svg?v=1" width="985">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TriTetra/TriTetra/main/dark_mode.svg?v=2">
+    <img alt="TriTetra's GitHub Profile README" src="https://raw.githubusercontent.com/TriTetra/TriTetra/main/light_mode.svg?v=2" width="985">
   </picture>
 </a>
