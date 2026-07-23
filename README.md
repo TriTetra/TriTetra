@@ -1,6 +1,3 @@
-# Abdullokh Abdukodirov
-
-AI Systems Engineer — building production AI infrastructure for autonomous software.
 
 <a href="https://github.com/TriTetra/TriTetra">
   <picture>
